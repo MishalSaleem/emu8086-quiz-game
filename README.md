@@ -140,17 +140,24 @@ Made with ❤️ in Assembly by [Mishal Saleem,Haniya Wajid]
 
 <!--
 ### Main Menu
-![Main Menu](path/to/screenshot1.png)
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/ce48372e-8485-4809-9ad1-e5a835754889" />
+
 
 ### Category Selection
-![Category Selection](path/to/screenshot2.png)
+<img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/c9ee4320-48a6-44e9-8b52-a70c42c27c04" />
+
 
 ### Question Example
-![Question](path/to/screenshot3.png)
+<img width="975" height="543" alt="image" src="https://github.com/user-attachments/assets/b037c4d8-7626-4567-ae91-308925392f30" />
+
 
 ### Result Screen
-![Results](path/to/screenshot4.png)
--->
+<img width="975" height="119" alt="image" src="https://github.com/user-attachments/assets/10fe8be3-1538-47e2-9617-db885a9e6afe" />
+
+<img width="975" height="110" alt="image" src="https://github.com/user-attachments/assets/09f31838-0600-477a-9fde-897df75f5e65" />
+
+<img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/699941ad-f08d-45b7-9799-91d52a012103" />
+
 
 ---
 
