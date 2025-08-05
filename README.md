@@ -92,22 +92,6 @@ Each category contains 5 unique, multiple-choice questions.
 
 ---
 
-## Screenshots
-
-### Main Menu
-*Add your screenshot here*
-
-### Category Selection
-*Add your screenshot here*
-
-### Question Example
-*Add your screenshot here*
-
-### Result Screen
-*Add your screenshot here*
-
----
-
 ## Code Structure
 
 - **.data section**:  
