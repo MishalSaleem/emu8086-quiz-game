@@ -136,7 +136,7 @@ Feel free to use, modify, and distribute!
 Made with ❤️ in Assembly by [Mishal Saleem,Haniya Wajid]  
 
 
-##Screenshots 
+## Screenshots 
 
 ### Main Menu
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/ce48372e-8485-4809-9ad1-e5a835754889" />
